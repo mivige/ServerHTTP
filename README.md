@@ -1,12 +1,10 @@
 # ServerHTTP
 
-This project was created as part of the [CodeCrafters](https://app.codecrafters.io/catalog) challenge: **Build your own HTTP server**.
-
 ## Project Description
 
-HTTP is the protocol that powers the web. In this challenge, you'll build an HTTP server that's capable of handling simple GET/POST requests, serving files, and handling multiple concurrent connections.
+HTTP is the protocol that powers the web. This is an HTTP server that's capable of handling simple GET/POST requests, serving files, and handling multiple concurrent connections.
 
-Along the way, you'll learn about:
+Along the way, I learnt about:
 - TCP connections
 - HTTP headers
 - HTTP verbs (GET, POST)
@@ -118,10 +116,6 @@ The `compressGzip` function compresses data using gzip.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
