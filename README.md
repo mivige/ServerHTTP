@@ -1,5 +1,9 @@
 # ServerHTTP
 
+![Version](https://img.shields.io/badge/Version-0.1.0-brightgreen)
+![Language](https://img.shields.io/badge/Language-go-blue)
+![License](https://img.shields.io/badge/License-GPL_2.0-red)
+---
 ## Project Description
 
 HTTP is the protocol that powers the web. This is an HTTP server that's capable of handling simple GET/POST requests, serving files, and handling multiple concurrent connections.
