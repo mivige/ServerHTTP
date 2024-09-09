@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/Version-0.1.0-brightgreen)
 ![Language](https://img.shields.io/badge/Language-go-blue)
-![License](https://img.shields.io/badge/License-GPL_2.0-red)
+![License](https://img.shields.io/badge/License-GPL_3.0-red)
 ---
 ## Project Description
 
