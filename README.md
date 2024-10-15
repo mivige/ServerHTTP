@@ -33,13 +33,13 @@ Along the way, I learnt about:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/mivige/ServerHTTP.git
+    cd ServerHTTP
     ```
 
 2. Build the project:
     ```sh
-    go build -o your_program
+    go build -o server.go
     ```
 
 ### Usage
