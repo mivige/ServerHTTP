@@ -46,7 +46,7 @@ Along the way, I learnt about:
 
 1. Run the server with the `--directory` flag to specify the directory to serve files from:
     ```sh
-    ./your_program --directory /path/to/your/directory
+    ./server.go --directory /path/to/your/directory
     ```
 
 2. The server will start listening on port `4221`.
